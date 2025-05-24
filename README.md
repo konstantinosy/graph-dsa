@@ -15,5 +15,8 @@ This program takes data from a CSV file, populates a graph data structure to cre
 ## How to run the program
 
 1. Make sure that **python** is properly **installed** on your system.
-2. **Download** and **save** the program `metro.py`.
-3. Open your preferred **terminal** of choice and **run using** `python metro.py`
+2. **Download** and **save** the program [metro.py](https://github.com/konstantinosy/graph-dsa/blob/main/metro.py).
+3. **Download** and **save** the CSV file [processed_stations.csv](https://github.com/konstantinosy/graph-dsa/blob/main/processed_stations.csv).
+4. For easier usage please have both files in the same directory.
+5. In order for the program to read the CSV file you must change the directory to fit your system since it uses an absolute path.
+6. Open your preferred **terminal** of choice and **run using** `python metro.py`
